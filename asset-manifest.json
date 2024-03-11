@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.38466d7a.css",
-    "main.js": "/static/js/main.d48fd659.js",
+    "main.js": "/static/js/main.04bb2835.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/mern.jpg": "/static/media/mern.837cc2c2f581be6bbe99.jpg",
     "static/media/Tomtop.png": "/static/media/Tomtop.708c1f95c174cfd87833.png",
@@ -26,11 +26,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.38466d7a.css.map": "/static/css/main.38466d7a.css.map",
-    "main.d48fd659.js.map": "/static/js/main.d48fd659.js.map",
+    "main.04bb2835.js.map": "/static/js/main.04bb2835.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38466d7a.css",
-    "static/js/main.d48fd659.js"
+    "static/js/main.04bb2835.js"
   ]
 }
